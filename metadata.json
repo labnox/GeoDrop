@@ -1,0 +1,11 @@
+{
+  "name": "GeoDrop",
+  "description": "Toegankelijkheidsapp voor blinden en slechtzienden om audio- en tekstoriëntatiepunten te plaatsen en ontdekken. Volledig in het Nederlands met gesproken feedback en slimme samenvatting.",
+  "requestFramePermissions": [
+    "microphone",
+    "geolocation"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
